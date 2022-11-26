@@ -1,4 +1,4 @@
-Ingredientes:
+INGREDIENTES:
 2 ovos
 1 pitada de sal
 1 fatia de presunto
@@ -6,7 +6,7 @@ Ingredientes:
 tempero verde a gosto
 caldo de galinha a gosto
 
-Modo de preparo:
+MODO DE PREPARO:
 Bata os 2 ovos, pode ser na batedeira ou não.
 
 Após ter batido bem, coloque-o na frigideira já untada com óleo, acrescente o sal, o presunto picado em quadradinhos e as duas fatias de queijo (não precisa picar o queijo).
